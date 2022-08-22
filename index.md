@@ -10,3 +10,9 @@
 ```
 $ CD
 ```
+
+- [x] Add headers
+- [x] Add image
+- [x] Add code
+- [x] Add list
+- [ ] Merge pull request
